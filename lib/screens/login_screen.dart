@@ -1,4 +1,4 @@
-import 'package:flutter_auth_app/screens/signup_screen.dart';
+import 'package:flutter_auth_apps/screens/signup_screen.dart';
 import 'package:flutter/material.dart';
 
 // 1. Create a StatefulWidget
